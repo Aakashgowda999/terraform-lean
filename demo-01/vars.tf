@@ -1,4 +1,4 @@
-variable "AWS_ACCESS_KET" {
+variable "AWS_ACCESS_KEY" {
 
 }
 
